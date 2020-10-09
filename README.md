@@ -1,2 +1,3 @@
 # pasouno
-primeros pasos 
+#Iniciamos en una nueb aplataforma
+#veremos que tanto avanzamos
